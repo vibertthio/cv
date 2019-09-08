@@ -1,5 +1,5 @@
 # Vibert Thio
-[website](https://vibertthio.com/portfolio) | [vibertthio@gmail.com](mailto:vibertthio@gmail.com)
+[website](https://vibertthio.com/portfolio) | [vibertthio@gmail.com](mailto:vibertthio@gmail.com) | [github](https://github.com/vibertthio)
 
 
 
@@ -49,11 +49,3 @@ Thio specializes in front end, music technology, musical machine learning, and i
 
 - “A minimal template of interactive web-based demonstrations for musical machine learning ”. Vibert Thio, Hao-Ming Liu, Yin-Cheng Yeh, and Yi-Hsuan Yang . Workshop on Intelligent Music Interfaces for Listening and Creation , 2019.
 - "Audio Visual Experiments in Modern Web". Frontend Developer and Designer Conference. Taipei. 2018
-
-
-
-
-<!-- ### Footer
-Last updated: 2019.9 -->
-
-
