@@ -1,7 +1,3 @@
----
-layout: cv
-title: Vibert Thio's CV
----
 # Vibert Thio
 Poetic technologist, playing around the disciplines of music, art, and technology.
 
@@ -14,69 +10,55 @@ Poetic technologist, playing around the disciplines of music, art, and technolog
 
 ## Summary
 
-Thio specializes in frontend, musical machine learning, animation programming, music technology, and interactive design. He is currently working for FRAMED as a frontend engineer. Also, he is a master student in NYU about technology, media and design. He also helps company build inspiring prototype and elegant product. He has been advocated the culture of art and technology in Taiwan by hosting exhibition, workshop, and performances since 2016.
+Thio specializes in front end, music technology, musical machine learning, and interactive design. Currently, he is a master student at NYU studying technology, media and design. He has been advocated the culture of art and technology in Taiwan by hosting exhibition, workshop, and performances since 2016.
 
+
+
+## Experience
+
+`2019.4 – Now` **Software Engineer** [*FRM*](https://frm.fm/)
+
+- Build "Filter" interactive feature with WebGL in frontend and the PHP server. It requires understanding of frontend (JavaScript, WebGL, and interactive design), and backend (legacy PHP, Phalcon framework, web socket, MySQL, and Redis).
+- iOS app (React Native, React, Redux, and IoT)
+
+`2018.8 – 2019.7` **Research Assistant** [*Music and AI Lab*](https://musicai.citi.sinica.edu.tw/)
+
+- Built 7 different projects with musical machine learning model (both the frontend and backend)
+- Published academic paper to IUI2019
+- Public speeches in international conferences
+
+`2018.1 – 2018.4` **Analyst Intern** [*Darwin Ventrue Management*](http://darwin-venture.com.tw/english/aboutus.html)
+
+- interview the companies about web, interactive design, and machine learning.
+
+`2016.11 - 2017.9` **Commisioned Artist** [*Quanta Arts Foundation*](http://www.qaf.org.tw/)
+
+- opening show at 2017 Ars Electronica, Australia.
+- showcase at 2017 Click Festival, Denmark.
 
 
 
 ## Education
 
-`2019 - now`
-**New York University**
-*Interactive Telecommunication Program*
-Master Degree
+`2019 - now` **New York University**
+Interactive Telecommunication Program
+*Master Degree*
 
-`2013-2018`
-**National Taiwan University**
-*Electrical and Electronics Engineering*
-Bachelor of Engineer
+`2013 - 2018` **National Taiwan University**
+Electrical and Electronics Engineering
+*Bachelor of Engineer*
 
 
 
-## Awards
+## Publications & Speeches
 
-`2012`
-President, *Royal Society*, London, UK
+- “A minimal template of interactive web-based demonstrations for musical machine learning ”. Vibert Thio, Hao-Ming Liu, Yin-Cheng Yeh, and Yi-Hsuan Yang . Workshop on Intelligent Music Interfaces for Listening and Creation , 2019.
+- "Audio Visual Experiments in Modern Web". Frontend Developer and Designer Conference. Taipei. 2018
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
 <!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: 2019.9 -->
 
 
