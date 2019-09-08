@@ -37,11 +37,11 @@ Thio specializes in front end, music technology, musical machine learning, and i
 
 `2019 - now` **New York University**
 
-*Master Degree*, "Interactive Telecommunication Program"
+- *Master Degree*, "Interactive Telecommunication Program"
 
 `2013 - 2018` **National Taiwan University**
 
-*Bachelor of Engineer*, "Electrical and Electronics Engineering"
+- *Bachelor of Engineer*, "Electrical and Electronics Engineering"
 
 
 
