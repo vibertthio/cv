@@ -1,10 +1,5 @@
 # Vibert Thio
-Poetic technologist, playing around the disciplines of music, art, and technology.
-
-<div id="webaddress">
-<a href="https://vibertthio.com/portfolio">vibertthio.com</a>
-| <a href="mailto:vibertthio@gmail.com">vibertthio@gmail.com</a>
-</div>
+[website](https://vibertthio.com/portfolio) | [vibertthio@gmail.com](mailto:vibertthio@gmail.com)
 
 
 
@@ -41,11 +36,15 @@ Thio specializes in front end, music technology, musical machine learning, and i
 ## Education
 
 `2019 - now` **New York University**
+
 Interactive Telecommunication Program
+
 *Master Degree*
 
 `2013 - 2018` **National Taiwan University**
+
 Electrical and Electronics Engineering
+
 *Bachelor of Engineer*
 
 
