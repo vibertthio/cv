@@ -1,26 +1,17 @@
 # Vibert Thio
-[website](https://vibertthio.com/portfolio) | [vibertthio@gmail.com](mailto:vibertthio@gmail.com) | [github](https://github.com/vibertthio)
-
-
-
-## Summary
-
-Thio specializes in front end, music technology, musical machine learning, and interactive design. Currently, he is a master student at NYU studying technology, media and design. He has been advocated the culture of art and technology in Taiwan by hosting exhibition, workshop, and performances since 2016.
-
-
+[website](https://vibertthio.com/portfolio) | [github](https://github.com/vibertthio) | [linkedin](https://www.linkedin.com/in/vibert-thio-489267152/) | vibertthio [at] gmail 
 
 ## Experience
 
 `2019.4 – Now` **Software Engineer** [*FRM*](https://frm.fm/)
 
-- Build "Filter" interactive feature with WebGL in frontend and the PHP server. It requires understanding of frontend (JavaScript, WebGL, and interactive design), and backend (legacy PHP, Phalcon framework, web socket, MySQL, and Redis).
-- iOS app (React Native, React, Redux, and IoT)
+- Design and implement new features. It involved frontend (JavaScript, WebGL, and interactive design), and backend (legacy PHP, Phalcon framework, web socket, MySQL, and Redis).
+- iOS app (React Native, React, Redux, and IoT).
 
 `2018.8 – 2019.7` **Research Assistant** [*Music and AI Lab*](https://musicai.citi.sinica.edu.tw/)
 
-- Built 7 different projects with musical machine learning model (both the frontend and backend)
-- Published academic paper to IUI2019
-- Public speeches in international conferences
+- Built 7 different projects with musical machine learning model. Two of them are featured on Magenta, Google Brain.
+- Published academic paper to IUI2019 and NIPS2019.
 
 `2018.1 – 2018.4` **Analyst Intern** [*Darwin Ventrue Management*](http://darwin-venture.com.tw/english/aboutus.html)
 
@@ -31,21 +22,22 @@ Thio specializes in front end, music technology, musical machine learning, and i
 - opening show at 2017 Ars Electronica, Australia.
 - showcase at 2017 Click Festival, Denmark.
 
+## Publications & Speeches
 
+- "Neural Loops". Vibert Thio, Chris Donahue. *NIPS Creativity, 2019*.
+- “A minimal template of interactive web-based demonstrations for musical machine learning ”. Vibert Thio, Hao-Ming Liu, Yin-Cheng Yeh, and Yi-Hsuan Yang . *IUI , 2019*.
+- "Audio Visual Experiments in Modern Web". *Frontend Developer and Designer Conference*. Taipei. 2018
 
 ## Education
 
-`2019 - now` **New York University**
+`2019.9 - 2021.6(expected)` **New York University**
 
 - *Master Degree*, "Interactive Telecommunication Program"
 
-`2013 - 2018` **National Taiwan University**
+`2013.9 - 2018.1` **National Taiwan University**
 
 - *Bachelor of Engineer*, "Electrical and Electronics Engineering"
 
+## Bio
 
-
-## Publications & Speeches
-
-- “A minimal template of interactive web-based demonstrations for musical machine learning ”. Vibert Thio, Hao-Ming Liu, Yin-Cheng Yeh, and Yi-Hsuan Yang . Workshop on Intelligent Music Interfaces for Listening and Creation , 2019.
-- "Audio Visual Experiments in Modern Web". Frontend Developer and Designer Conference. Taipei. 2018
+Thio specializes in front end, music technology, musical machine learning, and interactive design. Currently, he is a master student at NYU studying technology, media and design. He has been advocated the culture of art and technology in Taiwan by hosting exhibition, workshop, and performances since 2016.
