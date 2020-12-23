@@ -3,10 +3,16 @@
 
 ## Experience
 
+
+`2020.10 – now` **Research Intern** [*ByteDance*](https://www.bytedance.com/en/)
+
+- Worked with Speech, Audio & Music Intelligence (SAMI) Team to developed creative applications for musical expression.
+
 `2020.6 – 2020.9` **Research Intern** [*Google Brain*](https://research.google/teams/brain/)
 
 - Worked with [Magenta](https://magenta.tensorflow.org/) and [Google Arts & Culture](https://artsandculture.google.com/). 
 - Applied machine learning to make music easier to play with, e.g. Lo-Fi Player.
+- My intern project was featured on [MIT Tech Review](https://www.technologyreview.com/2020/09/04/1008151/google-ai-machine-learning-quarantine-music/), [The Verge](https://www.theverge.com/2020/9/5/21424092/google-magenta-lo-fi-player-virtual-music-room-ai), [Engadget](https://www.engadget.com/google-magenta-lo-fi-player-music-making-164501958.html?fbclid=IwAR0aiXjxr9ZV_K6BIKEc86HoZHZDxM34zJ6m4GTgpKmbjjP16Xz3bp5dO8Q), and #1 on [hacker news](https://news.ycombinator.com/item?id=24349167).
 
 `2019.4 – 2020.4` **Software Engineer** [*FRM*](https://frm.fm/)
 
