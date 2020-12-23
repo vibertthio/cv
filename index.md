@@ -3,7 +3,6 @@
 
 ## Experience
 
-
 `2020.10 – now` **Research Intern** [*ByteDance*](https://www.bytedance.com/en/)
 
 - Worked with Speech, Audio & Music Intelligence (SAMI) Team to developed creative applications for musical expression.
@@ -12,7 +11,6 @@
 
 - Worked with [Magenta](https://magenta.tensorflow.org/) and [Google Arts & Culture](https://artsandculture.google.com/). 
 - Applied machine learning to make music easier to play with, e.g. Lo-Fi Player.
-- My intern project was featured on [MIT Tech Review](https://www.technologyreview.com/2020/09/04/1008151/google-ai-machine-learning-quarantine-music/), [The Verge](https://www.theverge.com/2020/9/5/21424092/google-magenta-lo-fi-player-virtual-music-room-ai), [Engadget](https://www.engadget.com/google-magenta-lo-fi-player-music-making-164501958.html?fbclid=IwAR0aiXjxr9ZV_K6BIKEc86HoZHZDxM34zJ6m4GTgpKmbjjP16Xz3bp5dO8Q), and #1 on [hacker news](https://news.ycombinator.com/item?id=24349167).
 
 `2019.4 – 2020.4` **Software Engineer** [*FRM*](https://frm.fm/)
 
@@ -33,7 +31,14 @@
 - Opening show at 2017 Ars Electronica, Australia.
 - Showcase at 2017 Click Festival, Denmark.
 
-## Publications & Speeches
+## Press Coverage
+
+- [MIT Tech Review](https://www.technologyreview.com/2020/09/04/1008151/google-ai-machine-learning-quarantine-music/)
+- [The Verge](https://www.theverge.com/2020/9/5/21424092/google-magenta-lo-fi-player-virtual-music-room-ai)
+- [Engadget](https://www.engadget.com/google-magenta-lo-fi-player-music-making-164501958.html?fbclid=IwAR0aiXjxr9ZV_K6BIKEc86HoZHZDxM34zJ6m4GTgpKmbjjP16Xz3bp5dO8Q)
+- [#1 on Hacker News](https://news.ycombinator.com/item?id=24349167)
+
+## Publications
 
 - "Neural Loops". Vibert Thio, Chris Donahue. *NIPS Creativity, 2019*.
 - “A minimal template of interactive web-based demonstrations for musical machine learning ”. Vibert Thio, Hao-Ming Liu, Yin-Cheng Yeh, and Yi-Hsuan Yang . *IUI , 2019*.
@@ -51,4 +56,6 @@
 
 ## Bio
 
-Thio specializes in front end, music technology, musical machine learning, and interactive design. Currently, he is a master student at NYU studying technology, media and design. He has been advocated the culture of art and technology in Taiwan by hosting exhibition, workshop, and performances since 2016.
+Vibert's main interests are music/audio, HCI, and audio/visual design. He is currently thinking about how to make music easier to play.
+
+
