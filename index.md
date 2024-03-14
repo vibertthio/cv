@@ -3,7 +3,11 @@
 
 ## Experience
 
-`2020.10 – now` **Research Intern** [*ByteDance*](https://www.bytedance.com/en/)
+`2021.06 – now` **Senior Software Engineer** [*ByteDance*](https://www.bytedance.com/en/)
+
+- Working on Music AI for music creation.
+
+`2020.10 – 2021.03` **Research Intern** [*ByteDance*](https://www.bytedance.com/en/)
 
 - Worked with Speech, Audio & Music Intelligence (SAMI) Team to developed creative applications for musical expression.
 
