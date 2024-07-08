@@ -3,7 +3,7 @@
 
 ## Experience
 
-`2021.06 – now` **Senior Software Engineer** [*ByteDance*](https://www.bytedance.com/en/)
+`2021.06 – now` **Senior Machine Learning Engineer** [*ByteDance*](https://www.bytedance.com/en/)
 
 - Working on Music AI for music creation.
 
